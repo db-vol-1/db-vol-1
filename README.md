@@ -1,4 +1,4 @@
-```console
+```terminal
 db-vol-1@db-server-1#~: whoami
 db-vol-1
 
