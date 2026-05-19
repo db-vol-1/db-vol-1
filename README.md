@@ -3,13 +3,14 @@ db-vol-1@db-server-1#~: whoami
 db-vol-1
 
 db-vol-1@db-server-1#~: intro.py
->>> Hello World
->>> I am currently learning cybersecurity and networking.
->>> I primarily code in Python and JavaScript, but have experience with others.
->>> exit()
-db-vol-1@db-server-1#~: 
+Hello World
+
+I am currently learning cybersecurity and networking.
+I primarily code in Python and JavaScript, but have experience with other languages.
+
 db-vol-1@db-server-1#~: 
 db-vol-1@db-server-1#~: foss.sh 
+
 Access to free software is fundamental for all
 It not only gives users privacy and autonomy but improves security too.
 Open source is the only reason I was able to learn programming. 
