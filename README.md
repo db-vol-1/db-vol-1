@@ -1,16 +1,28 @@
-## Hi there 👋
+```console
+db-vol-1@db-server-1#~: whoami
+db-vol-1
 
-<!--
-**db-vol-1/db-vol-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+db-vol-1@db-server-1#~: intro.py
+>>> Hello World
+>>> I am currently learning cybersecurity and networking.
+>>> I primarily code in Python and JavaScript, but have experience with others.
+>>> exit()
+db-vol-1@db-server-1#~: 
+db-vol-1@db-server-1#~: 
+db-vol-1@db-server-1#~: foss.sh 
+Access to free software is fundamental for all
+It not only gives users privacy and autonomy but improves security too.
+Open source is the only reason I was able to learn programming. 
 
-Here are some ideas to get you started:
+I hope I can be of similar benifit for those in the future. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+db-vol-1@db-server-1#~: echo "Contact Me"
+Contact Me
+db-vol-1@db-server-1#~: cat contact.md
+
+I currently do not have any social media accounts. If you would like to reach me, please do so via GitHub Discussions.
+
+I do plan to eventually set up Mastodon and email in the future.
+
+db-vol-1@db-server-1#~: █
+```
