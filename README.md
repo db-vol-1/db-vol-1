@@ -6,7 +6,7 @@ db-vol-1@db-server-1#~: intro.py
 Hello World
 
 I am currently learning cybersecurity and networking.
-I primarily code in Python and JavaScript, but have experience with other languages.
+I primarily code in Python and JavaScript. I have some experince with C# and Lua too. 
 
 db-vol-1@db-server-1#~: 
 db-vol-1@db-server-1#~: foss.sh 
