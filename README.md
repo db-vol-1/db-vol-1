@@ -27,3 +27,4 @@ I do plan to eventually set up Mastodon and email in the future.
 
 db-vol-1@db-server-1#~: █
 ```
+![Internet Archive Button](https://getcubed.neocities.org/getcubed2/images/buttons/archive.png) ![I like computer button](https://kopawz.neocities.org/indexgraphics/buttondecor/ilikecomputer.png)
